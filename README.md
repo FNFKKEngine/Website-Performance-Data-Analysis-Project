@@ -97,10 +97,10 @@ Website performance analysis project.ipynb
 
 ---
 
-## 📈 Key Outcomes
- ✔️ Identified traffic trends and engagement patterns
- ✔️ Highlighted high-performing vs. low-performing channels
- ✔️ Generated data-driven recommendations for website optimization
+## 📈 Key Outcomes :
+✔️ Identified traffic trends and engagement patterns
+✔️ Highlighted high-performing vs. low-performing channels
+✔️ Generated data-driven recommendations for website optimization
 
 ## 🤝 Acknowledgments
 - Dataset inspired by website analytics reports
